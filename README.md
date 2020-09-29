@@ -5,8 +5,6 @@ Thanks for applying to the **Yotepresto Software Engineering team** as a React N
 
 ### The challenge
 
-![Screen prototype](assets/prototype.png)
-
 Your challenge is to build a **movies watchlist**. It's simple:
 
 * The app will have only 1 view, and no need to store any data (all in memory).
@@ -19,6 +17,9 @@ Your challenge is to build a **movies watchlist**. It's simple:
 * The movie poster must the requested from the RottenTomatoes API, with the following request: `https://www.rottentomatoes.com/api/private/v1.0/movies.json?q={movie-title}&page_limit=1&page=1` (use the first result given the movie title).
 * If no movie matches with the user input, then no image is displayed.
 
+**Design:**
+
+<img src="assets/prototype.png" alt="Screen prototype" height="500">
 
 ### Deliverables
 
