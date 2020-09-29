@@ -5,6 +5,8 @@ Thanks for applying to the **Yotepresto Software Engineering team** as a React N
 
 ### The challenge
 
+![Screen prototype](assets/prototype.png)
+
 Your challenge is to build a **movies watchlist**. It's simple:
 
 * The app will have only 1 view, and no need to store any data (all in memory).
@@ -22,7 +24,7 @@ Your challenge is to build a **movies watchlist**. It's simple:
 
 * A public Github repo with a React Native app working for iOS and Android (DO NOT fork this repo).
 * You may use [Expo](https://docs.expo.io/).
-* The project must have at least 3 automated tests with [Jest](https://jestjs.io/).
+* The project must have at least **3 automated tests** with [Jest](https://jestjs.io/).
 
 
 ### Rules
@@ -36,6 +38,7 @@ Your challenge is to build a **movies watchlist**. It's simple:
 
 It is not required but any extra work will speak great of you. For example:
 
+* Implementing [Redux](https://redux.js.org/) to manage the state.
 * Adding animations.
 * Adding install instructions in the README.
 * Any extra function: deleting items, suggesting movie names, caching images, using github actions...
